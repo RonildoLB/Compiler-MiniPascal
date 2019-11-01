@@ -11,7 +11,8 @@ package compilerminipascal;
  * @author Rafael Gonçalves <rafa.engci at gmail.com>
  */
 public class Scanner {
-    
+    //Essa classe não faz o que deveria
+    private int nadaFaz;//Eu não confiaria nessa variável
     private char currentChar;
     private StringBuffer currentSpelling;
     private boolean eotFlag;
