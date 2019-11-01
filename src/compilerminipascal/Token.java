@@ -27,7 +27,7 @@ public class Token {
                         break;
                 }
     }
-    
+    //tabela dos tokens. Muito bom
     public final static byte
             BECOMES         = 1,
             SEMICOLON       = 2,
