@@ -1,0 +1,94 @@
+{
+  "infos": {
+    "categorias": [
+      {
+        "id": 1,
+        "tipo": "Lazer"
+      },
+      {
+        "id": 2,
+        "tipo": "Educação"
+      },
+      {
+        "id": 3,
+        "tipo": "Contas"
+      },
+      {
+        "id": 4,
+        "tipo": "Transporte"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Pendente"
+    },
+    {
+      "id": 2,
+      "tipo": "Aprovado"
+    }
+  ],
+  "transac": [
+    {
+      "nome": "as",
+      "valor": "4.55",
+      "categoria": "Transporte",
+      "tipo": "receita",
+      "status": "Aprovado",
+      "id": 3
+    },
+    {
+      "nome": "aaaa",
+      "valor": "2",
+      "categoria": "Educação",
+      "tipo": "despesa",
+      "status": "Pendente",
+      "id": 4
+    },
+    {
+      "nome": "as",
+      "valor": "6",
+      "categoria": "Contas",
+      "tipo": "despesa",
+      "status": "Pendente",
+      "id": 5
+    },
+    {
+      "nome": "a",
+      "valor": "4.5",
+      "categoria": "Contas",
+      "data": "07/08/2022",
+      "tipo": "receita",
+      "status": "Pendente",
+      "id": 7
+    },
+    {
+      "nome": null,
+      "valor": "4.5",
+      "categoria": "Transporte",
+      "data": "07/08/2022",
+      "tipo": "receita",
+      "status": "Pendente",
+      "id": 9
+    },
+    {
+      "nome": "as",
+      "valor": "6",
+      "categoria": "Educação",
+      "data": "08/08/2022",
+      "tipo": "despesa",
+      "status": "Pendente",
+      "id": 13
+    },
+    {
+      "nome": null,
+      "valor": "4.555",
+      "categoria": "Contas",
+      "data": "07/08/2022",
+      "tipo": "receita",
+      "status": "Pendente",
+      "id": 14
+    }
+  ]
+}
